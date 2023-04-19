@@ -1,6 +1,6 @@
 # tariffSelection
-Sample automation for search page, as per requirement Wikipedia
-
+ select the best available tariff based on price
+ 
 **Pre requisites**
 Node js -16.13.0 or any latest version
 Visual Studio IDE  , to view the files
